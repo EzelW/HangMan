@@ -1,0 +1,1 @@
+One difficulty was getting the hangman gallows to draw correctly, as sometimes activating this code would result in an error. This issue was resolved by fixing some misplaced functions. Individually, I programmed some of the functions like "main". 
